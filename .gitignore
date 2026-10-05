@@ -1,1 +1,42 @@
+# ---------------------------------------------------------------
+# Raw EEG/ECG data — never commit (lives outside the repo)
+# ---------------------------------------------------------------
+*.edf
+*.EDF
+*.bdf
+*.BDF
+*.part                         # interrupted downloads from 2_seizeIT2_download.py
+SeizeIT2/
+Siena/
+Scalp_EEG_Dataset/
+physionet.org/                 # wget mirror folder used for CHB-MIT and Siena
+
+# Re-downloadable annotation cache from 1_seizeIT2_catalog.py
+**/seizeit2_meta/cache/
+
+# ---------------------------------------------------------------
+# Python environments and build artifacts
+# ---------------------------------------------------------------
+venv/
+venv*/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# ---------------------------------------------------------------
+# Local settings and secrets
+# ---------------------------------------------------------------
+.env
+.env.*
+
+# ---------------------------------------------------------------
+# macOS and editors
+# ---------------------------------------------------------------
 .DS_Store
+._*
+.vscode/
+.idea/
+*.swp
