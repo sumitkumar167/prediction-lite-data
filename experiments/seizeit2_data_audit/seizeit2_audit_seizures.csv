@@ -1,0 +1,148 @@
+subject,run,onset_s,duration_s,type,localization,lateralization,vigilance,since_prev_s,since_prev_basis,lead_seizure,in_recording,preictal_ok,ecg_verdict,bpm,rr_cv,ecg_mains_pct,eeg_clean_pct,eeg_notes,usable,usable_lead
+sub-002,01,4046.0,20.0,sz_foc_a_nm,cen_par,left,awake,4046,>= (from run start),yes,True,True,poor,60,0.46,0,100,,False,False
+sub-002,01,10629.0,181.0,sz_foc_ia_m_hyperkinetic,cen_par,left,awake,6563,same run,yes,True,True,clean,68,0.04,1,100,,True,True
+sub-002,02,5224.0,112.0,sz_foc_a_m_hyperkinetic,cen_par,left,awake,5224,>= (from run start),yes,True,True,mains,42,1.27,54,100,,False,False
+sub-002,02,13745.0,180.0,sz_foc_ia_m_hyperkinetic,cen_par,left,awake,8409,same run,yes,True,True,poor,41,0.83,9,99,artifact windows: BTEleft SD 1/120,False,False
+sub-002,03,31537.0,52.0,sz_foc_ia_m_hyperkinetic,cen_par,left,awake,31537,>= (from run start),yes,True,True,poor,68,0.35,3,100,,False,False
+sub-002,05,69796.0,153.0,sz_foc_ia_m_hyperkinetic,cen_par,left,asleep,69796,>= (from run start),yes,True,True,mains,5,,78,98,"artifact windows: BTEleft SD 2/120, CROSStop SD 1/120",False,False
+sub-002,05,74529.0,64.0,sz_foc_ia_m_hyperkinetic,un,left,asleep,4580,same run,yes,True,True,mains,6,,94,99,"artifact windows: BTEleft SD 1/120, CROSStop SD 1/120",False,False
+sub-002,06,72558.0,56.0,sz_foc_ia_m_hyperkinetic,cen_par,left,asleep,72558,>= (from run start),yes,True,True,mains,4,,94,99,artifact windows: BTEleft SD 1/120,False,False
+sub-002,06,77054.0,180.0,sz_foc_ia_m_hyperkinetic,un,right,asleep,4440,same run,yes,True,True,usable,59,0.27,28,100,,True,True
+sub-002,06,80526.0,228.0,sz_foc_ia_m_hyperkinetic,cen_par,right,awake,3292,same run,yes,True,True,mains,2,,97,100,,False,False
+sub-002,09,16790.0,59.0,sz_foc_ia_m_hyperkinetic,cen_par,left,asleep,16790,>= (from run start),yes,True,True,recovered,67,0.21,79,100,,True,True
+sub-002,09,22216.0,118.0,sz_foc_ia_m_hyperkinetic,cen_par,left,awake,5367,same run,yes,True,True,poor,46,0.82,22,100,,False,False
+sub-002,09,27736.0,100.0,sz_foc_ia_m_hyperkinetic,cen_par,left,awake,5402,same run,yes,True,True,mains,49,0.49,95,100,,False,False
+sub-002,09,28456.0,161.0,sz_foc_ia_m_hyperkinetic,un,right,awake,620,same run,no,True,True,mains,42,0.62,97,100,,False,False
+sub-002,10,4494.0,156.0,sz_foc_ia_m_hyperkinetic,cen_par,left,awake,4494,>= (from run start),yes,True,True,poor,63,1.00,5,100,,False,False
+sub-073,16,3369.0,65.0,sz_foc_a_m_hyperkinetic,front_temp,left,awake,3369,>= (from run start),yes,True,True,clean,77,0.07,0,100,,True,True
+sub-073,20,233.0,82.0,sz_foc_a_um,front_temp,left,awake,233,>= (from run start),unknown,True,False,n/a,,,,,,False,False
+sub-073,24,14818.0,86.0,sz_foc_a_m_hyperkinetic,front_temp,left,asleep,14818,>= (from run start),yes,True,True,clean,52,0.10,0,100,,True,True
+sub-073,26,2612.0,123.0,sz_foc_a_um,front_temp,left,awake,2612,>= (from run start),yes,True,True,usable,80,0.12,0,99,"artifact windows: BTEleft SD 1/120, CROSStop SD 1/120",True,True
+sub-073,27,18464.0,96.0,sz_foc_a_m_hyperkinetic,front_temp,left,awake,18464,>= (from run start),yes,True,True,poor,72,0.69,0,99,artifact windows: BTEleft SD 1/120,False,False
+sub-073,30,2628.0,107.0,sz_foc_a_m_hyperkinetic,front_temp,left,awake,2628,>= (from run start),yes,True,True,clean,76,0.06,0,100,,True,True
+sub-073,31,7346.0,116.0,sz_foc_a_m_hyperkinetic,front_temp,left,awake,7346,>= (from run start),yes,True,True,usable,69,0.19,0,94,"artifact windows: BTEleft SD 7/120, CROSStop SD 7/120",True,True
+sub-073,31,15378.0,71.0,sz_foc_a_m_hyperkinetic,front_temp,left,asleep,7916,same run,yes,True,True,usable,68,0.11,0,100,,True,True
+sub-073,32,7144.0,107.0,sz_foc_a_m_hyperkinetic,front_temp,left,asleep,7144,>= (from run start),yes,True,True,clean,62,0.10,0,100,,True,True
+sub-073,34,12104.0,104.0,sz_foc_a_um,front_temp,left,awake,12104,>= (from run start),yes,True,True,poor,45,2.80,1,99,artifact windows: BTEleft SD 1/120,False,False
+sub-073,35,15371.0,21.0,sz_foc_ua_nm_behavior,front_temp,left,un,15371,>= (from run start),yes,True,True,usable,79,0.20,0,100,,True,True
+sub-073,36,6443.0,67.0,sz_foc_a_m_hyperkinetic,front_temp,left,awake,6443,>= (from run start),yes,True,True,usable,81,0.22,0,100,,True,True
+sub-073,36,13207.0,87.0,sz_foc_a_m_hyperkinetic,front_temp,left,asleep,6697,same run,yes,True,True,clean,65,0.05,0,100,BTEleft SD: 24% mains notched,True,True
+sub-073,36,14028.0,111.0,sz_foc_a_m_hyperkinetic,front_temp,left,asleep,734,same run,no,True,True,clean,63,0.10,0,100,,True,False
+sub-073,36,17995.0,94.0,sz_foc_a_m_hyperkinetic,front_temp,left,asleep,3856,same run,yes,True,True,clean,65,0.09,0,99,artifact windows: CROSStop SD 1/120,True,True
+sub-073,37,2449.0,144.0,sz_foc_f2b,front_temp,left,asleep,2449,>= (from run start),yes,True,True,clean,60,0.06,0,100,,True,True
+sub-073,37,4910.0,106.0,sz_foc_a_m_hyperkinetic,front_temp,left,asleep,2317,same run,yes,True,True,poor,70,2.03,0,98,"artifact windows: BTEleft SD 3/120, CROSStop SD 2/120",False,False
+sub-073,37,7308.0,86.0,sz_foc_a_m_hyperkinetic,front_temp,left,asleep,2292,same run,yes,True,True,poor,55,1.55,0,92,"artifact windows: CROSStop SD 9/120, BTEleft SD 6/120",False,False
+sub-073,37,12098.0,92.0,sz_foc_a_m_hyperkinetic,front_temp,left,awake,4704,same run,yes,True,True,usable,99,0.20,0,100,,True,True
+sub-073,38,2982.0,105.0,sz_foc_a_um,front_temp,left,awake,2982,>= (from run start),yes,True,True,poor,93,0.49,0,100,,False,False
+sub-073,38,6032.0,121.0,sz_foc_a_um,front_temp,left,awake,2945,same run,yes,True,True,poor,89,0.56,1,100,,False,False
+sub-073,39,539.0,94.0,sz_foc_a_m_hyperkinetic,front_temp,left,awake,539,>= (from run start),unknown,True,True,usable,88,0.11,0,98,artifact windows: BTEleft SD 2/120,True,False
+sub-073,39,782.0,92.0,sz_foc_a_m_hyperkinetic,front_temp,left,awake,149,same run,no,True,False,n/a,,,,,,False,False
+sub-073,39,5458.0,97.0,sz_foc_a_m_hyperkinetic,front_temp,left,asleep,4584,same run,yes,True,True,poor,86,0.61,0,100,,False,False
+sub-073,39,6751.0,115.0,sz_foc_a_m_hyperkinetic,front_temp,left,awake,1196,same run,no,True,True,poor,86,0.42,2,98,"artifact windows: CROSStop SD 1/120, BTEleft SD 1/120",False,False
+sub-073,39,10239.0,146.0,sz_foc_f2b,front_temp,left,awake,3373,same run,yes,True,True,usable,73,0.20,0,97,"BTEleft SD: 27% mains notched; artifact windows: CROSStop SD 3/120, BTEleft SD 2/120",True,True
+sub-073,39,12677.0,118.0,sz_foc_a_m_hyperkinetic,front_temp,left,asleep,2292,same run,yes,True,True,poor,100,0.51,1,92,"artifact windows: CROSStop SD 9/120, BTEleft SD 1/120",False,False
+sub-073,40,1670.0,74.0,sz_foc_a_m_hyperkinetic,front_temp,left,awake,1670,>= (from run start),unknown,True,True,poor,83,0.75,0,100,,False,False
+sub-073,40,7351.0,84.0,sz_foc_a_m_hyperkinetic,front_temp,left,awake,5607,same run,yes,True,True,usable,85,0.17,0,97,artifact windows: BTEleft SD 4/120,True,True
+sub-073,40,9908.0,91.0,sz_foc_a_m_hyperkinetic,front_temp,left,awake,2473,same run,yes,True,True,poor,64,0.91,0,70,"artifact windows: BTEleft SD 36/120, CROSStop SD 1/120",False,False
+sub-073,40,11982.0,99.0,sz_foc_a_m_hyperkinetic,front_temp,left,awake,1983,same run,yes,True,True,clean,94,0.07,0,90,CROSStop SD: 34% mains notched; artifact windows: CROSStop SD 12/120,True,True
+sub-073,40,14698.0,103.0,sz_foc_a_m_hyperkinetic,front_temp,left,awake,2617,same run,yes,True,True,poor,83,0.40,1,95,"artifact windows: BTEleft SD 3/120, CROSStop SD 3/120",False,False
+sub-073,41,389.0,62.0,sz_foc_ua_nm_behavior,un,un,un,389,>= (from run start),unknown,True,True,clean,75,0.05,0,100,,True,False
+sub-073,41,781.0,69.0,sz_foc_ua_nm_behavior,un,un,un,330,same run,no,True,True,clean,74,0.07,0,100,,True,False
+sub-073,41,1145.0,80.0,sz_foc_ua_nm_behavior,un,un,un,295,same run,no,True,True,clean,74,0.04,0,100,,True,False
+sub-073,41,1251.0,108.0,sz_foc_a_m_hyperkinetic,front_temp,left,awake,26,same run,no,True,False,n/a,,,,,,False,False
+sub-073,41,2806.0,111.0,sz_foc_a_m_hyperkinetic,front_temp,left,awake,1447,same run,no,True,True,usable,84,0.15,0,100,,True,False
+sub-073,41,4197.0,111.0,sz_foc_a_m_hyperkinetic,front_temp,left,awake,1280,same run,no,True,True,poor,54,2.18,0,90,"artifact windows: CROSStop SD 10/120, BTEleft SD 3/120",False,False
+sub-073,42,1.0,95.0,sz_foc_a_um,front_temp,left,awake,1,>= (from run start),unknown,True,False,n/a,,,,,,False,False
+sub-073,42,3661.0,92.0,sz_foc_a_um,front_temp,left,awake,3565,same run,yes,True,True,poor,76,0.63,0,98,"artifact windows: CROSStop SD 1/120, BTEleft SD 1/120",False,False
+sub-073,42,6342.0,90.0,sz_foc_a_um,front_temp,left,awake,2589,same run,yes,True,True,clean,79,0.03,0,100,,True,True
+sub-073,42,9011.0,76.0,sz_foc_a_um,front_temp,left,awake,2579,same run,yes,True,True,poor,70,0.39,0,98,artifact windows: CROSStop SD 2/120,False,False
+sub-073,42,12005.0,148.0,sz_foc_a_um,front_temp,left,asleep,2918,same run,yes,True,True,clean,67,0.08,0,100,,True,True
+sub-073,42,12783.0,118.0,sz_foc_a_um,front_temp,left,asleep,630,same run,no,True,True,usable,72,0.26,1,93,"artifact windows: CROSStop SD 5/120, BTEleft SD 3/120",True,False
+sub-073,43,888.0,89.0,sz_foc_a_m_hyperkinetic,front_temp,left,asleep,888,>= (from run start),unknown,True,True,clean,70,0.03,0,100,,True,False
+sub-073,43,7604.0,94.0,sz_foc_a_m_hyperkinetic,front_temp,left,asleep,6627,same run,yes,True,True,usable,67,0.26,0,96,"artifact windows: CROSStop SD 4/120, BTEleft SD 3/120",True,True
+sub-073,43,11902.0,75.0,sz_foc_a_m_hyperkinetic,front_temp,left,asleep,4204,same run,yes,True,True,usable,70,0.14,0,98,artifact windows: BTEleft SD 2/120,True,True
+sub-073,45,1599.0,92.0,sz_foc_a_m_hyperkinetic,front_temp,left,awake,1599,>= (from run start),unknown,True,True,clean,80,0.08,0,100,,True,False
+sub-073,45,9472.0,99.0,sz_foc_a_m_hyperkinetic,front_temp,left,awake,7781,same run,yes,True,True,usable,79,0.13,0,100,,True,True
+sub-073,45,14671.0,108.0,sz_foc_a_m_hyperkinetic,front_temp,left,awake,5100,same run,yes,True,True,clean,83,0.10,0,100,,True,True
+sub-073,46,15492.0,88.0,sz_foc_a_m_hyperkinetic,front_temp,left,awake,15492,>= (from run start),yes,True,True,usable,82,0.19,0,91,"artifact windows: CROSStop SD 11/120, BTEleft SD 8/120",True,True
+sub-073,47,13521.0,98.0,sz_foc_a_m_hyperkinetic,front_temp,left,asleep,13521,>= (from run start),yes,True,True,clean,71,0.05,0,100,BTEleft SD: 21% mains notched; CROSStop SD: 28% mains notched,True,True
+sub-073,47,14144.0,99.0,sz_foc_a_m_hyperkinetic,front_temp,left,asleep,525,same run,no,True,True,clean,74,0.04,0,100,BTEleft SD: 31% mains notched; CROSStop SD: 22% mains notched,True,False
+sub-073,47,15694.0,114.0,sz_foc_a_m_hyperkinetic,front_temp,left,asleep,1451,same run,no,True,True,clean,70,0.03,0,100,,True,False
+sub-073,47,16820.0,92.0,sz_foc_a_m_hyperkinetic,front_temp,left,asleep,1012,same run,no,True,True,clean,69,0.05,0,99,"BTEleft SD: 27% mains notched; CROSStop SD: 41% mains notched; artifact windows: BTEleft SD 1/120, CROSStop SD 1/120",True,False
+sub-073,48,522.0,125.0,sz_foc_a_um,front_temp,left,asleep,522,>= (from run start),unknown,True,True,usable,67,0.13,0,95,"CROSStop SD: 34% mains notched; artifact windows: BTEleft SD 6/120, CROSStop SD 6/120",True,False
+sub-073,48,3471.0,92.0,sz_foc_a_um,front_temp,left,asleep,2824,same run,yes,True,True,clean,62,0.04,0,100,BTEleft SD: 39% mains notched; CROSStop SD: 54% mains notched,True,True
+sub-073,48,4903.0,112.0,sz_foc_a_um,front_temp,left,asleep,1340,same run,no,True,True,clean,62,0.04,0,100,BTEleft SD: 28% mains notched; CROSStop SD: 38% mains notched,True,False
+sub-073,48,6254.0,88.0,sz_foc_a_um,front_temp,left,asleep,1239,same run,no,True,True,clean,61,0.08,0,100,BTEleft SD: 28% mains notched; CROSStop SD: 34% mains notched,True,False
+sub-073,48,13632.0,114.0,sz_foc_a_um,front_temp,left,asleep,7290,same run,yes,True,True,clean,60,0.10,0,100,CROSStop SD: 29% mains notched,True,True
+sub-073,48,15830.0,126.0,sz_foc_a_um,front_temp,left,asleep,2084,same run,yes,True,True,clean,79,0.06,0,100,CROSStop SD: 34% mains notched,True,True
+sub-073,50,7481.0,141.0,sz_foc_a_m_hyperkinetic,front_temp,left,awake,7481,>= (from run start),yes,True,True,clean,86,0.08,0,100,,True,True
+sub-073,50,16721.0,96.0,sz_foc_a_m_hyperkinetic,front_temp,left,awake,9099,same run,yes,True,True,poor,81,0.45,0,82,"artifact windows: CROSStop SD 22/120, BTEleft SD 2/120",False,False
+sub-073,50,19691.0,95.0,sz_foc_a_m_hyperkinetic,front_temp,left,awake,2874,same run,yes,True,True,usable,73,0.24,2,100,,True,True
+sub-073,51,977.0,74.0,sz_foc_a_m_hyperkinetic,front_temp,left,asleep,977,>= (from run start),unknown,True,True,clean,77,0.06,0,100,BTEleft SD: 20% mains notched,True,False
+sub-073,51,5337.0,108.0,sz_foc_a_m_hyperkinetic,front_temp,left,asleep,4286,same run,yes,True,True,clean,67,0.08,0,100,,True,True
+sub-073,51,7802.0,101.0,sz_foc_a_m_hyperkinetic,front_temp,left,asleep,2357,same run,yes,True,True,clean,65,0.06,0,100,BTEleft SD: 73% mains notched; CROSStop SD: 59% mains notched,True,True
+sub-073,51,9045.0,96.0,sz_foc_a_m_hyperkinetic,front_temp,left,asleep,1142,same run,no,True,True,clean,65,0.09,0,100,BTEleft SD: 59% mains notched; CROSStop SD: 61% mains notched,True,False
+sub-073,51,9728.0,94.0,sz_foc_a_m_hyperkinetic,front_temp,left,asleep,587,same run,no,True,True,usable,60,0.10,0,100,BTEleft SD: 60% mains notched; CROSStop SD: 48% mains notched,True,False
+sub-073,51,10209.0,61.0,sz_foc_a_m_hyperkinetic,front_temp,left,asleep,387,same run,no,True,True,usable,60,0.11,0,100,BTEleft SD: 66% mains notched; CROSStop SD: 56% mains notched,True,False
+sub-073,51,10747.0,93.0,sz_foc_a_m_hyperkinetic,front_temp,left,asleep,477,same run,no,True,True,usable,60,0.11,0,100,BTEleft SD: 60% mains notched; CROSStop SD: 42% mains notched,True,False
+sub-073,51,11386.0,75.0,sz_foc_a_m_hyperkinetic,front_temp,left,asleep,546,same run,no,True,True,usable,60,0.12,0,100,BTEleft SD: 54% mains notched; CROSStop SD: 45% mains notched,True,False
+sub-073,51,12126.0,82.0,sz_foc_a_m_hyperkinetic,front_temp,left,asleep,665,same run,no,True,True,usable,62,0.11,0,100,BTEleft SD: 41% mains notched; CROSStop SD: 36% mains notched,True,False
+sub-073,52,14003.0,115.0,sz_foc_a_m_hyperkinetic,front_temp,left,asleep,14003,>= (from run start),yes,True,True,clean,62,0.07,0,100,BTEleft SD: 60% mains notched; CROSStop SD: 53% mains notched,True,True
+sub-073,54,21106.0,60.0,sz_foc_ua_nm_behavior,un,un,un,21106,>= (from run start),yes,True,True,usable,82,0.22,2,100,,True,True
+sub-087,01,1464.0,68.0,sz_foc_a_nm_behavior,temp,left,un,1464,>= (from run start),unknown,True,True,clean,87,0.06,1,100,,True,False
+sub-087,02,2380.0,20.0,sz_foc_a_nm_behavior,temp,left,un,2380,>= (from run start),yes,True,True,clean,96,0.04,0,100,,True,True
+sub-087,02,3472.0,17.0,sz_foc_a_nm_behavior,temp,left,un,1072,same run,no,True,True,clean,102,0.03,0,100,,True,False
+sub-087,03,2753.0,17.0,sz_foc_a_nm_behavior,temp,left,un,2753,>= (from run start),yes,True,True,clean,97,0.04,1,100,,True,True
+sub-087,04,416.0,82.0,sz_foc_a_um,front_temp,left,un,416,>= (from run start),unknown,True,True,clean,96,0.06,0,100,,True,False
+sub-087,05,149.0,27.0,sz_foc_a_um,front_temp,left,un,149,>= (from run start),unknown,True,False,n/a,,,,,,False,False
+sub-087,06,718.0,24.0,sz_foc_a_nm_behavior,temp,left,un,718,>= (from run start),unknown,True,True,clean,91,0.05,1,100,,True,False
+sub-087,06,2139.0,23.0,sz_foc_a_nm_behavior,temp,left,un,1397,same run,no,True,True,clean,88,0.08,0,100,,True,False
+sub-087,06,2588.0,36.0,sz_foc_a_nm_behavior,temp,left,un,426,same run,no,True,True,clean,84,0.09,0,100,,True,False
+sub-087,07,237.0,25.0,sz_foc_a_nm_behavior,temp,left,un,237,>= (from run start),unknown,True,False,n/a,,,,,,False,False
+sub-087,08,2165.0,17.0,sz_foc_a_nm_behavior,temp,left,un,2165,>= (from run start),yes,True,True,clean,71,0.09,0,100,,True,True
+sub-087,08,3327.0,13.0,sz_foc_a_nm_behavior,temp,left,un,1145,same run,no,True,True,clean,76,0.07,0,100,,True,False
+sub-087,09,575.0,25.0,sz_foc_a_um,front_temp,left,un,575,>= (from run start),unknown,True,True,usable,70,0.11,0,100,,True,False
+sub-087,10,539.0,14.0,sz_foc_a_nm_behavior,temp,left,un,539,>= (from run start),unknown,True,True,usable,73,0.13,0,100,,True,False
+sub-087,10,3321.0,22.0,sz_foc_a_nm_behavior,temp,left,un,2768,same run,yes,True,True,usable,75,0.11,0,100,,True,True
+sub-087,11,308.0,13.0,sz_foc_a_nm_behavior,temp,left,un,308,>= (from run start),unknown,True,True,clean,75,0.10,0,100,,True,False
+sub-087,12,2900.0,43.0,sz_foc_a_nm_behavior,temp,left,un,2900,>= (from run start),yes,True,True,clean,84,0.09,0,100,,True,True
+sub-087,13,188.0,14.0,sz_foc_a_um,front_temp,left,un,188,>= (from run start),unknown,True,False,n/a,,,,,,False,False
+sub-087,13,1484.0,30.0,sz_foc_a_um,front_temp,left,un,1282,same run,no,True,True,clean,83,0.10,0,100,,True,False
+sub-087,13,2194.0,15.0,sz_foc_a_um,front_temp,left,un,680,same run,no,True,True,usable,91,0.12,0,100,,True,False
+sub-087,13,2872.0,17.0,sz_foc_a_um,front_temp,left,un,663,same run,no,True,True,clean,102,0.08,0,100,,True,False
+sub-087,14,57.0,82.0,sz_foc_a_um,front_temp,left,un,57,>= (from run start),unknown,True,False,n/a,,,,,,False,False
+sub-087,14,2386.0,99.0,sz_foc_a_nm_behavior,temp,left,un,2247,same run,yes,True,True,usable,82,0.10,0,100,,True,True
+sub-087,15,37.0,65.0,sz_foc_a_nm_behavior,temp,left,un,37,>= (from run start),unknown,True,False,n/a,,,,,,False,False
+sub-087,15,2054.0,127.0,sz_foc_a_nm_behavior,temp,left,un,1952,same run,yes,True,True,clean,93,0.07,0,100,,True,True
+sub-087,16,213.0,78.0,sz_foc_a_nm_behavior,temp,left,un,213,>= (from run start),unknown,True,False,n/a,,,,,,False,False
+sub-087,16,683.0,66.0,sz_foc_a_nm_behavior,temp,left,un,392,same run,no,True,True,clean,91,0.08,0,100,,True,False
+sub-087,16,2680.0,204.0,sz_foc_a_nm_behavior,temp,left,un,1931,same run,yes,True,True,clean,94,0.05,0,100,,True,True
+sub-087,17,38.0,122.0,sz_foc_a_um,front_temp,left,un,38,>= (from run start),unknown,True,False,n/a,,,,,,False,False
+sub-087,18,1051.0,93.0,sz_foc_a_nm_behavior,temp,left,un,1051,>= (from run start),unknown,True,True,poor,62,1.37,1,100,,False,False
+sub-087,18,3503.0,63.0,sz_foc_a_nm_behavior,temp,left,un,2359,same run,yes,True,True,clean,90,0.08,0,100,,True,True
+sub-087,20,1666.0,83.0,sz_foc_a_nm_behavior,temp,left,un,1666,>= (from run start),unknown,True,True,clean,92,0.10,1,100,,True,False
+sub-087,21,2149.0,98.0,sz_foc_a_nm_behavior,temp,left,un,2149,>= (from run start),yes,True,True,clean,95,0.07,0,100,,True,True
+sub-087,21,3389.0,81.0,sz_foc_a_nm_behavior,temp,left,un,1142,same run,no,True,True,clean,106,0.03,0,100,,True,False
+sub-087,22,840.0,93.0,sz_foc_a_nm_behavior,temp,left,un,840,>= (from run start),unknown,True,True,poor,105,0.44,0,100,,False,False
+sub-087,22,1671.0,124.0,sz_foc_a_nm_behavior,temp,left,un,738,same run,no,True,True,clean,105,0.02,0,100,,True,False
+sub-087,23,217.0,89.0,sz_foc_a_nm_behavior,temp,left,un,217,>= (from run start),unknown,True,False,n/a,,,,,,False,False
+sub-087,23,3412.0,137.0,sz_foc_a_nm_behavior,temp,left,un,3106,same run,yes,True,True,clean,99,0.07,0,100,,True,True
+sub-087,24,2290.0,81.0,sz_foc_a_nm_behavior,temp,left,un,2290,>= (from run start),yes,True,True,clean,88,0.09,0,100,,True,True
+sub-087,25,9.0,84.0,sz_foc_a_um,front_temp,left,un,9,>= (from run start),unknown,True,False,n/a,,,,,,False,False
+sub-087,25,1178.0,100.0,sz_foc_a_nm_behavior,temp,left,un,1085,same run,no,True,True,clean,96,0.07,0,100,,True,False
+sub-087,25,2606.0,86.0,sz_foc_a_nm_behavior,temp,left,un,1328,same run,no,True,True,clean,89,0.09,0,100,,True,False
+sub-103,01,28651.0,6.0,sz_foc_a_um,ins,right,un,28651,>= (from run start),yes,True,True,clean,70,0.05,1,100,,True,True
+sub-103,02,7771.0,15.0,sz_foc_a_m_hyperkinetic,ins,right,asleep,7771,>= (from run start),yes,True,True,clean,64,0.05,0,100,,True,True
+sub-103,02,34345.0,15.0,sz_foc_a_m_hyperkinetic,ins,right,asleep,26559,same run,yes,True,True,usable,72,0.14,1,100,,True,True
+sub-103,03,22768.0,13.0,sz_foc_a_m_hyperkinetic,ins,right,asleep,22768,>= (from run start),yes,True,True,clean,84,0.05,0,100,,True,True
+sub-103,04,570.0,14.0,sz_foc_a_m_hyperkinetic,ins,right,asleep,570,>= (from run start),unknown,True,True,suspect,6,,1,100,,False,False
+sub-103,04,2095.0,11.0,sz_foc_a_m_hyperkinetic,ins,right,asleep,1511,same run,no,True,True,clean,71,0.04,9,100,,True,False
+sub-103,04,3818.0,16.0,sz_foc_a_m_hyperkinetic,ins,right,asleep,1712,same run,no,True,True,clean,67,0.06,6,100,,True,False
+sub-103,04,8232.0,15.0,sz_foc_a_m_hyperkinetic,ins,right,asleep,4398,same run,yes,True,True,clean,65,0.05,0,100,,True,True
+sub-103,04,12423.0,10.0,sz_foc_a_m_hyperkinetic,ins,right,asleep,4176,same run,yes,True,True,suspect,2,,32,100,,False,False
+sub-103,04,16881.0,11.0,sz_foc_a_m_hyperkinetic,ins,right,asleep,4448,same run,yes,True,True,mains,41,1.34,80,100,,False,False
+sub-103,04,17820.0,9.0,sz_foc_a_m_hyperkinetic,ins,right,asleep,928,same run,no,True,True,no_beats,,,6,100,,False,False
+sub-103,04,53977.0,11.0,sz_foc_a_m_hyperkinetic,ins,right,asleep,36148,same run,yes,True,True,suspect,27,,45,100,,False,False
+sub-103,05,67.0,8.0,sz_foc_ia,un,un,awake,67,>= (from run start),unknown,True,False,n/a,,,,,,False,False
+sub-103,06,41171.0,14.0,sz_foc_a_m_hyperkinetic,ins,right,asleep,41171,>= (from run start),yes,True,True,recovered,64,0.10,62,100,,True,True
+sub-103,07,22661.0,72.0,sz_foc_f2b,ins,right,asleep,22661,>= (from run start),yes,True,True,recovered,64,0.08,65,100,BTEright SD: 66% mains notched; CROSStop SD: 50% mains notched,True,True
